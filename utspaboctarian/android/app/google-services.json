@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772442408374",
+    "firebase_url": "https://utspaboctarian-default-rtdb.firebaseio.com",
+    "project_id": "utspaboctarian",
+    "storage_bucket": "utspaboctarian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772442408374:android:731efa1d21c78b5936ed17",
+        "android_client_info": {
+          "package_name": "com.example.utspaboctarian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQb1rujzkYcWyYyy_DMl_N7LXcJYox1Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
