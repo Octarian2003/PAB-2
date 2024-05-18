@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354988248270",
+    "project_id": "projectpab-bfd21",
+    "storage_bucket": "projectpab-bfd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354988248270:android:39a0aa5130a8ff2561549f",
+        "android_client_info": {
+          "package_name": "com.example.infoloker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4MPVAPSt7j2X6aIxN62bUEHCcbigQjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
